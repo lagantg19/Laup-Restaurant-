@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+*
+{
+    background-color: #dcddda;
+    font-family: 'Playfair Display', serif;
+}
+.title{
+    font-size: 97px;
+}
+.navtitle{
+    font-size: 50px;
+}
+.para{
+    font-size: 50px;
+}
+.overlay{
+    background: transparent;
+    color:white;
+    margin-top: 380px;
+    font-size: 90px;
+}
+.reservation{
+    font-size: 70px;
+}
+.bot{
+    
+    background-color: #f0f0f0;
+    border-radius: 10px;
+  }
